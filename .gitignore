@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
+gst_finder.db
+*.sqlite3
+.env
+.DS_Store
